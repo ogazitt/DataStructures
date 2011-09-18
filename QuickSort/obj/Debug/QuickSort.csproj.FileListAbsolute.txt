@@ -1,0 +1,10 @@
+C:\Users\Omri\Documents\Visual Studio 2010\Projects\BinaryTree\QuickSort\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Omri\Documents\Visual Studio 2010\Projects\BinaryTree\QuickSort\bin\Debug\QuickSort.dll
+C:\Users\Omri\Documents\Visual Studio 2010\Projects\BinaryTree\QuickSort\bin\Debug\QuickSort.pdb
+C:\Users\Omri\Documents\Visual Studio 2010\Projects\BinaryTree\QuickSort\obj\Debug\QuickSort.dll
+C:\Users\Omri\Documents\Visual Studio 2010\Projects\BinaryTree\QuickSort\obj\Debug\QuickSort.pdb
+C:\Users\Omri\DataStructures\QuickSort\bin\Debug\QuickSort.dll
+C:\Users\Omri\DataStructures\QuickSort\bin\Debug\QuickSort.pdb
+C:\Users\Omri\DataStructures\QuickSort\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Omri\DataStructures\QuickSort\obj\Debug\QuickSort.dll
+C:\Users\Omri\DataStructures\QuickSort\obj\Debug\QuickSort.pdb

@@ -1,0 +1,10 @@
+This is a C# implementation of common data structures and algorithms.
+
+It includes:
+	Binary Search Tree
+	HeapSort
+	MergeSort
+	Huffman encoding
+	QuickSort
+
+The QuickSort implementation is not fully tested and may have some issues.

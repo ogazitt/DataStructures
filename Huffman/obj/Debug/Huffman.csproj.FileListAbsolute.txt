@@ -1,0 +1,18 @@
+C:\Users\Omri\Documents\Visual Studio 2010\Projects\BinaryTree\Huffman\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Omri\Documents\Visual Studio 2010\Projects\BinaryTree\Huffman\bin\Debug\Huffman.dll
+C:\Users\Omri\Documents\Visual Studio 2010\Projects\BinaryTree\Huffman\bin\Debug\Huffman.pdb
+C:\Users\Omri\Documents\Visual Studio 2010\Projects\BinaryTree\Huffman\bin\Debug\BinaryTree.dll
+C:\Users\Omri\Documents\Visual Studio 2010\Projects\BinaryTree\Huffman\bin\Debug\MergeSort.dll
+C:\Users\Omri\Documents\Visual Studio 2010\Projects\BinaryTree\Huffman\bin\Debug\BinaryTree.pdb
+C:\Users\Omri\Documents\Visual Studio 2010\Projects\BinaryTree\Huffman\bin\Debug\MergeSort.pdb
+C:\Users\Omri\Documents\Visual Studio 2010\Projects\BinaryTree\Huffman\obj\Debug\Huffman.dll
+C:\Users\Omri\Documents\Visual Studio 2010\Projects\BinaryTree\Huffman\obj\Debug\Huffman.pdb
+C:\Users\Omri\DataStructures\Huffman\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Omri\DataStructures\Huffman\obj\Debug\Huffman.dll
+C:\Users\Omri\DataStructures\Huffman\obj\Debug\Huffman.pdb
+C:\Users\Omri\DataStructures\Huffman\bin\Debug\Huffman.dll
+C:\Users\Omri\DataStructures\Huffman\bin\Debug\Huffman.pdb
+C:\Users\Omri\DataStructures\Huffman\bin\Debug\BinaryTree.dll
+C:\Users\Omri\DataStructures\Huffman\bin\Debug\MergeSort.dll
+C:\Users\Omri\DataStructures\Huffman\bin\Debug\BinaryTree.pdb
+C:\Users\Omri\DataStructures\Huffman\bin\Debug\MergeSort.pdb

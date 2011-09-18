@@ -1,0 +1,15 @@
+C:\Users\Omri\DataStructures\Driver\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Omri\DataStructures\Driver\bin\Debug\Driver.exe
+C:\Users\Omri\DataStructures\Driver\bin\Debug\Driver.pdb
+C:\Users\Omri\DataStructures\Driver\bin\Debug\BinaryTree.dll
+C:\Users\Omri\DataStructures\Driver\bin\Debug\HeapSort.dll
+C:\Users\Omri\DataStructures\Driver\bin\Debug\Huffman.dll
+C:\Users\Omri\DataStructures\Driver\bin\Debug\MergeSort.dll
+C:\Users\Omri\DataStructures\Driver\bin\Debug\QuickSort.dll
+C:\Users\Omri\DataStructures\Driver\bin\Debug\BinaryTree.pdb
+C:\Users\Omri\DataStructures\Driver\bin\Debug\HeapSort.pdb
+C:\Users\Omri\DataStructures\Driver\bin\Debug\Huffman.pdb
+C:\Users\Omri\DataStructures\Driver\bin\Debug\MergeSort.pdb
+C:\Users\Omri\DataStructures\Driver\bin\Debug\QuickSort.pdb
+C:\Users\Omri\DataStructures\Driver\obj\x86\Debug\Driver.exe
+C:\Users\Omri\DataStructures\Driver\obj\x86\Debug\Driver.pdb

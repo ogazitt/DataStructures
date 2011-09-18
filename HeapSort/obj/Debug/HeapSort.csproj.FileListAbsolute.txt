@@ -1,0 +1,10 @@
+C:\Users\Omri\Documents\Visual Studio 2010\Projects\BinaryTree\HeapSort\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Omri\Documents\Visual Studio 2010\Projects\BinaryTree\HeapSort\bin\Debug\HeapSort.dll
+C:\Users\Omri\Documents\Visual Studio 2010\Projects\BinaryTree\HeapSort\bin\Debug\HeapSort.pdb
+C:\Users\Omri\Documents\Visual Studio 2010\Projects\BinaryTree\HeapSort\obj\Debug\HeapSort.dll
+C:\Users\Omri\Documents\Visual Studio 2010\Projects\BinaryTree\HeapSort\obj\Debug\HeapSort.pdb
+C:\Users\Omri\DataStructures\HeapSort\bin\Debug\HeapSort.dll
+C:\Users\Omri\DataStructures\HeapSort\bin\Debug\HeapSort.pdb
+C:\Users\Omri\DataStructures\HeapSort\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Omri\DataStructures\HeapSort\obj\Debug\HeapSort.dll
+C:\Users\Omri\DataStructures\HeapSort\obj\Debug\HeapSort.pdb

@@ -1,0 +1,10 @@
+C:\Users\Omri\Documents\Visual Studio 2010\Projects\BinaryTree\MergeSort\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Omri\Documents\Visual Studio 2010\Projects\BinaryTree\MergeSort\bin\Debug\MergeSort.dll
+C:\Users\Omri\Documents\Visual Studio 2010\Projects\BinaryTree\MergeSort\bin\Debug\MergeSort.pdb
+C:\Users\Omri\Documents\Visual Studio 2010\Projects\BinaryTree\MergeSort\obj\Debug\MergeSort.dll
+C:\Users\Omri\Documents\Visual Studio 2010\Projects\BinaryTree\MergeSort\obj\Debug\MergeSort.pdb
+C:\Users\Omri\DataStructures\MergeSort\bin\Debug\MergeSort.dll
+C:\Users\Omri\DataStructures\MergeSort\bin\Debug\MergeSort.pdb
+C:\Users\Omri\DataStructures\MergeSort\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Omri\DataStructures\MergeSort\obj\Debug\MergeSort.dll
+C:\Users\Omri\DataStructures\MergeSort\obj\Debug\MergeSort.pdb
