@@ -19,14 +19,11 @@ using System.Text;
 
 // this implementation of quicksort comes out of the CLR book.
 // it is a classic divide-and-conquer implementation and operates in place.
+// it runs in O(n^2) in the worst case, but O(n*lg(n)) on average.
 // 
 // the function is defined as an extension method to an integer array.  
 // it can easily be adapted to a data structure that has an integer key 
 // (see Element.cs and MergeSort.cs in the mergesort project for an example).
-//
-// note that this implementation works on an array with no duplicates but has 
-// not yet been fully tested/debugged on arrays with duplicates.  there appears 
-// to be a bug in the boundary conditions and/or the Partition function implementation.
 
 namespace QuickSort
 {
@@ -47,15 +44,20 @@ namespace QuickSort
         static int Partition(int[] array, int p, int r)
         {
             int val = array[p];
-            int i = p;
-            int j = r;
+            int i = p - 1;
+            int j = r + 1;
 
             while (true)
             {
-                while (array[j] > val)
+                do
+                {
                     j--;
-                while (array[i] < val)
+                } while (array[j] > val);
+                do
+                {
                     i++;
+                }
+                while (array[i] < val);
                 if (i < j)
                 {
                     int temp = array[j];
@@ -67,8 +69,16 @@ namespace QuickSort
             }
         }
 
+        static void Print(int[] array, int p, int r)
+        {
+            for (int i = p; i <= r; i++)
+                Console.Write(array[i] + " ");
+            Console.WriteLine();
+        }
+
         static void Sort(int[] array, int p, int r)
         {
+            //Print(array, p, r);
             if (p < r)
             {
                 int q = Partition(array, p, r);

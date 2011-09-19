@@ -16,22 +16,20 @@ namespace Driver
 
         static void Main(string[] args)
         {
-            Console.WriteLine("Binary Search Tree test");
             BinaryTreeTest();
-            Console.WriteLine("MergeSort test");
+            QuickSortTest();
             MergeSortTest();
-            Console.WriteLine("Huffman encoding test");
-            HuffmanTest();
-            Console.WriteLine("Huffman encoding test with CLR input");
-            HuffmanTestCLR();
-            Console.WriteLine("HeapSort test");
             HeapSortTest();
+            HuffmanTest();
+            HuffmanTestCLR();
 
             Console.ReadLine();
         }
 
         static void BinaryTreeTest()
         {
+            Console.WriteLine("Binary Search Tree test");
+
             var tree = new BinaryTree.BinaryTree();
             foreach (int v in arr)
             {
@@ -63,13 +61,17 @@ namespace Driver
 
         static void HeapSortTest()
         {
-            arr.Print();
-            arr.HeapSort();
-            arr.Print();
+            Console.WriteLine("HeapSort test");
+
+            var array = (int[]) arr.Clone();
+            array.Print();
+            array.HeapSort();
+            array.Print();
         }
 
         static void HuffmanTest()
         {
+            Console.WriteLine("Huffman encoding test");
             HuffmanCode hc = new HuffmanCode();
             hc.Frequencies["omri"] = 35;
             hc.Frequencies["had"] = 3;
@@ -87,6 +89,7 @@ namespace Driver
 
         static void HuffmanTestCLR()
         {
+            Console.WriteLine("Huffman encoding test with CLR input");
             HuffmanCode hc = new HuffmanCode();
             hc.Frequencies["f"] = 5;
             hc.Frequencies["e"] = 9;
@@ -105,9 +108,21 @@ namespace Driver
 
         static void MergeSortTest()
         {
-            arr.Print();
-            arr.MergeSort();
-            arr.Print();
+            Console.WriteLine("MergeSort test");
+            var array = (int[])arr.Clone();
+            array.Print();
+            array.MergeSort();
+            array.Print();
+        }
+
+        static void QuickSortTest()
+        {
+            Console.WriteLine("QuickSort test");
+
+            var array = (int[])arr.Clone();
+            array.Print();
+            array.QuickSort();
+            array.Print();
         }
     }
 }
